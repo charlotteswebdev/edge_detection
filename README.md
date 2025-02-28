@@ -1,6 +1,6 @@
 # Edge Detection Application
 
-This Python application performs edge detection on images using vertical and horizontal filters. It demonstrates basic computer vision concepts using PyTorch and displays the results using Matplotlib.
+This Python application performs edge detection on images using vertical and horizontal filters. It demonstrates basic computer vision concepts using PyTorch and displays the results using Matplotlib. This tool is a simplified version of what happens in the first layer of many CNNs (convolutional neural networks), where the network learns these kernel values automatically instead of using predetermined values.
 
 ## Prerequisites
 
